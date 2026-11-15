@@ -5,7 +5,7 @@
 
 [![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=cplusplus)](https://isocpp.org/)
 [![Algorithm](https://img.shields.io/badge/Algorithm-Collatz-blueviolet.svg)](https://en.wikipedia.org/wiki/Collatz_conjecture)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/rkdgus127/Calculator)
 
 </p>
